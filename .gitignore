@@ -1,10 +1,18 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-
+gib_model.pki
+detect_model.pki
+bad_phone_number.txt
+good_numbers.txt
+good_numbers1.txt
+big.txt
+bad.txt
+good.txt
 # Folder config file
 Desktop.ini
-
+.idea
+Gibberish-Detector
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
